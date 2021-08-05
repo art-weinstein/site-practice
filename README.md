@@ -31,4 +31,4 @@ Copyright (c) 2021 Art Weinstein
 
 ## Contact Information
 
-[Email](artur.weinstein@gmail.com)
+[Email] (artur.weinstein@gmail.com)
