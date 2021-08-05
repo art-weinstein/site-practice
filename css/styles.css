@@ -1,3 +1,7 @@
+.left {
+  text-align: left;
+}
+
 body {
   background-color: rgb(83, 82, 25);
   color: lavenderblush;
