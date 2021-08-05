@@ -10,7 +10,7 @@
 
 ## Description
 
-This is a very basic webpage intended to test all that we've learned during the first week. It contains test links and various styling methods used to practice all the new skills I've developed; including README.md's.
+This is a very basic webpage intended to test all that we've learned during the first week. It contains test links and various styling methods used to practice all the new skills I've developed; including README.md's. Links, columns and images all work as inteded. 
 
 
 ## Setup/Installation Requirements
@@ -21,7 +21,7 @@ This is a very basic webpage intended to test all that we've learned during the 
 
 ## Known Bugs
 
-* No bugs known at the moment.
+* No known bugs. 
 
 ## License
 
