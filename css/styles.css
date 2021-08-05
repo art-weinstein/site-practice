@@ -7,3 +7,25 @@ body {
   color: lavenderblush;
   text-align: center;
 }
+
+.frame {
+  width: 300px;
+  float: left;
+  padding: 10px;
+  border: 10px blueviolet;
+  border-style: ridge;
+}
+.column {
+  line-height: ;
+  width: 325px;
+  float: left;
+  margin-right: 10%;
+  padding: px;
+}
+
+.important {
+  color: red;
+  font-weight: bolder;
+  font-style: oblique;
+}
+
